@@ -14,7 +14,7 @@ This project is a Java implementation of the **Bank Account Kata**, designed to 
 
 ## Requirements
 
-- Java 11 or higher
+- Java 11 or higher (recommended 17)
 - Maven 3.6 or higher
 
 ## Project Structure
